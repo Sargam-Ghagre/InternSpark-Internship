@@ -1,5 +1,15 @@
 # Zomato Data Analysis - 
 
+## Files
+
+## If the files do not open properly, use the links below:
+
+1) **Notebook (.ipynb file)**  
+Open here: https://colab.research.google.com/drive/1417GcBDyFp9vIBFzpqLMuQG1jufAv4pZ
+
+2) **PDF file**  
+Open here: https://drive.google.com/file/d/1NIR8qw-zXLruBwLDhD7Ub_vlj88KuWsj/view?usp=sharing
+
 ## Project Overview - 
 
 This project performs **Exploratory Data Analysis (EDA)** and **Machine Learning modeling** on the Zomato Bangalore dataset to uncover insights about restaurant ratings, cuisines, pricing, and location trends.

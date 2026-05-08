@@ -166,23 +166,24 @@ The model predicts Instagram engagement score based on:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
 ``` 
-4.Run all notebook cells
-* Future Improvements -
+4. Run all notebook cells
+
+# Future Improvements -
 * Use advanced boosting models (XGBoost, LightGBM)
 * Add sentiment analysis on comments
 * Deploy model using Streamlit/Flask
 * Integrate Instagram API for real-time analytics
 * Improve feature engineering
 
-Conclusion -
+# Conclusion -
 
 This project demonstrates a complete data science workflow for Instagram engagement analysis:
 
-Data cleaning
-EDA
-Engagement analysis
-Machine learning
-Business strategy recommendations
+* Data cleaning
+* EDA
+* Engagement analysis
+* Machine learning
+* Business strategy recommendations
 
 The findings can help platforms like Alfido Tech improve content planning, optimize posting schedules, and increase audience engagement using data-driven insights.
 
